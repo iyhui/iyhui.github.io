@@ -82,11 +82,25 @@
 	80% { opacity: 0; }
     100% { opacity: 0; }
 }
-@media screen and (max-width: 768px){
-	.rw-sentence { font-size: 18px; }
+
+@media screen and (max-width: 1000px){
+	.flex{ 
+		max-width: 762px; }
 }
-@media screen and (max-width: 320px){
-	.rw-sentence { font-size: 9px; }
+
+@media screen and (max-width: 581px){
+	.rw-sentence { font-size: 30px; }
+}
+
+@media screen and (max-width: 414px){
+	.rw-sentence { font-size: 20px; }
+}
+
+@media screen and (max-width: 375px){
+	.rw-sentence { 
+		margin: 0%;
+		font-size: 15px; 
+	}
 }
 
 

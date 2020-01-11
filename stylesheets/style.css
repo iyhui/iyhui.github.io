@@ -43,7 +43,7 @@ body {
 
 
   .welcome{
-    margin: 2.5% 8.5% 3% 10%;
+    margin: 2.5% 0 2.5% 5%;
     font-size: 200%;
     font-size-adjust: none;
     -webkit-text-size-adjust:none;
@@ -76,10 +76,8 @@ body {
     flex-wrap: wrap;
     flex-shrink: 0;
     justify-content: space-evenly;
-    margin: 0 auto;
-    margin: 2% 8% 0% 8%;
-    /* width: 100%; */
-    max-width: 1380px;
+    width: 100%;
+    /* max-width: 1380px; */
   }
   
   .flip-card {
