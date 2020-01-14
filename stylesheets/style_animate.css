@@ -26,7 +26,7 @@
 	animation: rotateWord 14.95s linear infinite 0s;
 }
 .rw-words-1 span:nth-child(2) { 
-    -webkit-animation-delay: 1.9s; 
+    -webkit-animation-delay: 2.75s; 
 	-ms-animation-delay: 2.5s; 
 	animation-delay: 2.5s; 
 	color: #138086;
