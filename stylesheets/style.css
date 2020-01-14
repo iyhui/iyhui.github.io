@@ -87,6 +87,7 @@ body {
     perspective: 1000px;
     border-radius: 15px;
     transition: transform 1s;
+    -webkit-transition: transform 1s;
     flex-shrink: 0;
     /* margin: 0 5% 5% 0%; */
   }
@@ -111,6 +112,8 @@ body {
   .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
     transition: transform 0.45s;
+    -webkit-transform: rotateY(180deg);
+    -webkit-transition: transform 0.45s;
   }
   
 
@@ -136,6 +139,7 @@ body {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
     border-radius: 15px;
+    -webkit-overflow: hidden;
     overflow: hidden;
 
   }
