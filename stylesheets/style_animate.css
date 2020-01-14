@@ -115,14 +115,6 @@
 		padding: 10px 40px;
 	}
 
-	.circle{
-		max-width: 125px;
-    	max-height: 125px;
-    	min-width: 125px;
-		min-height: 125px;
-		font-size: 50px;
-		padding: 0;
-	}
 }
 
 
