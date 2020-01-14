@@ -258,9 +258,9 @@ body {
   }
 
   .circle {
-    background-color: white; /* Green */
+    background-color: white;
     border-radius: 50%;
-    max-width: 125s;
+    max-width: 125;
     max-height: 125;
     min-width: 125;
     min-height: 125;
