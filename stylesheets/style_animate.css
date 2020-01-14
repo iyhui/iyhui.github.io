@@ -89,17 +89,30 @@
 }
 
 @media screen and (max-width: 581px){
-	.rw-sentence { font-size: 30px; }
+	.rw-sentence { 
+		font-size: 30px;
+		text-align: center; 
+	}
+	.test-size{
+		padding: 10px 75px;
+	}
 }
 
 @media screen and (max-width: 414px){
-	.rw-sentence { font-size: 20px; }
+	.rw-sentence { 
+		font-size: 20px; 
+		text-align: center; 
+	}
 }
 
 @media screen and (max-width: 375px){
 	.rw-sentence { 
 		margin: 0%;
 		font-size: 15px; 
+		text-align: center; 
+	}
+	.test-size{
+		padding: 10px 40px;
 	}
 }
 
