@@ -260,10 +260,10 @@ body {
   .circle {
     background-color: white;
     border-radius: 50%;
-    max-width: 125;
-    max-height: 125;
-    min-width: 125;
-    min-height: 125;
+    max-width: 125px;
+    max-height: 125px;
+    min-width: 125px;
+    min-height: 125px;
     
     /* padding: 16px 32px; */
     /*text-align: center;*/
