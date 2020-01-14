@@ -77,6 +77,7 @@
     height:375px; 
     margin:10px 10px 10px 10px;
     overflow:scroll;
+    -ms-overflow-style: none;
 
 }
  
@@ -89,6 +90,7 @@
     float:left; 
     height:390px; 
     line-height: 1.75;
+    -ms-overflow-style: none;
 }
 
 .pngy-header{
@@ -125,6 +127,7 @@
   max-height:262px;
   height:262px;
   overflow:scroll;
+  -ms-overflow-style: none;
 }
 
 .modal-content{
