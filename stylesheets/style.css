@@ -264,10 +264,7 @@ body {
     max-height: 125px;
     min-width: 125px;
     min-height: 125px;
-    
-    
-    /* padding: 16px 32px; */
-    /*text-align: center;*/
+    padding: 0 0 0 0;
     text-decoration: none;
     display: inline-block;
     font-size: 80px;
