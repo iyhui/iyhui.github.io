@@ -80,6 +80,11 @@
     -ms-overflow-style: none;
 
 }
+.modal-left::-webkit-scrollbar {
+  display: none;
+}
+
+
  
 .modal-right{
     position: relative;
@@ -91,6 +96,10 @@
     height:390px; 
     line-height: 1.75;
     -ms-overflow-style: none;
+}
+
+.modal-right::-webkit-scrollbar {
+  display: none;
 }
 
 .pngy-header{
