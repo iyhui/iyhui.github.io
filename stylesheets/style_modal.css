@@ -161,6 +161,18 @@
   -ms-overflow-style: none;
 }
 
+.scroll::-webkit-scrollbar { 
+  width: 0 !important 
+}
+
+.scroll{ 
+  -ms-overflow-style: none; 
+}
+
+.scroll{ 
+  overflow: -moz-scrollbars-none; 
+}
+
 .modal-content{
   line-height: 1;
 }
