@@ -84,7 +84,17 @@
   display: none;
 }
 
+.modal-left::-webkit-scrollbar { 
+  width: 0 !important 
+}
 
+.modal-left{ 
+  -ms-overflow-style: none; 
+}
+
+.modal-left{ 
+  overflow: -moz-scrollbars-none; 
+}
  
 .modal-right{
     position: relative;
@@ -100,6 +110,18 @@
 
 .modal-right::-webkit-scrollbar {
   display: none;
+}
+
+.modal-right::-webkit-scrollbar { 
+  width: 0 !important 
+}
+
+.modal-right{ 
+  -ms-overflow-style: none; 
+}
+
+.modal-right{ 
+  overflow: -moz-scrollbars-none; 
 }
 
 .pngy-header{
