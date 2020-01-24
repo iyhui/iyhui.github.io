@@ -1,4 +1,4 @@
 # Portfolio Site
 ```
-View portfolio: www.idahui.me
+[View live demo](https://www.idahui.me "Ida's Portfolio")
 ```
